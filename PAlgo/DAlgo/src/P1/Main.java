@@ -12,7 +12,7 @@ public class Main {
 		long t1,t2;
 		boolean exit = false;
 		
-		System.out.println("Nuestra ecuación es X^3+10X-5.");
+		System.out.println("Nuestra ecuación es X^3+10X-5.Alvaro gay");
 		System.out.println("Introduzca el extremo izquierdo del intervalo para la bisección.");
 		double a = sc.nextDouble();
 		System.out.println("Ahora, el extremo derecho del intervalo.");
